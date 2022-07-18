@@ -5,27 +5,27 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Blender</strong></span><br>
-            <a href="https://www.blender.org" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"> </a>
+            <span><strong>Gmail</strong></span><br>
+            <a href="mailto:paweltrojanski@gmail.com" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"> </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>C++</strong></span><br>
+            <span><strong>LinkedIn</strong></span><br>
             <a href="https://www.w3schools.com/cpp/" target="_blank"> <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>C#</strong></span><br>
+            <span><strong>YouTube</strong></span><br>
             <a href="https://www.w3schools.com/cs/" target="_blank"> <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
+            <span><strong>Twitter</strong></span><br>
             <a href="https://www.w3schools.com/css/" target="_blank"> <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>Figma</strong></span><br>
+            <span><strong>Facebook</strong></span><br>
             <a href="https://www.figma.com/" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
+            <span><strong>Instagram</strong></span><br>
             <a href="https://www.w3schools.com/html/" target="_blank"> <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> </a>
             </td>
         </tr>
