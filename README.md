@@ -17,3 +17,5 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://unity.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/> </a>
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enviGit&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
