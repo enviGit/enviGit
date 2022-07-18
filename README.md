@@ -6,7 +6,7 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Discord</strong></span><br>
-            <a href="discordapp.com/users/309372335117434881/" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg"> </a>
+            <a href="https://discordapp.com/users/309372335117434881/" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>Facebook</strong></span><br>
