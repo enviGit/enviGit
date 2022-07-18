@@ -3,7 +3,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.blender.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a>
@@ -27,11 +26,11 @@
             </td>
             <td width="80px" align="center">
             <span><strong>C++</strong></span><br>
-            <img height="32" src="">
+            <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>C#</strong></span><br>
-            <img height="32" src="">
+            <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
@@ -39,7 +38,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>Figma</strong></span><br>
-            <img height="32px" src="">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
@@ -49,26 +48,26 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>JavaScript</strong></span><br>
-            <img height="32px" src="">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>jQuery</strong></span><br>
-            <img height="32px" src="">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>MySQL</strong></span><br>
-            <img height="32px" src="">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
             <td width="80px" align="center">
             <span><strong>PHP</strong></span><br>
-            <img height="32px" src="">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
-            <img height="32px" src="">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Unity</strong></span><br>
-            <img height="32px" src="">
+            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
             </td>
         </tr>
     </tbody>
