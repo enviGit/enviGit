@@ -23,7 +23,7 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Blender</strong></span><br>
-            <img height="32px" src="">
+            <a href="https://www.blender.org" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-                       original.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>C++</strong></span><br>
