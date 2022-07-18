@@ -8,48 +8,48 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Blender</strong></span><br>
-            <a href="https://www.blender.org" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-                       original.svg"> </a>
+            <a href="https://www.blender.org" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>C++</strong></span><br>
-            <a href="https://www.w3schools.com/cpp/" target="_blank"> <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-             original.svg"> </a>
+            <a href="https://www.w3schools.com/cpp/" target="_blank"> <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>C#</strong></span><br>
-            <a href="https://www.w3schools.com/cs/" target="_blank"> <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-                     original.svg"> </a>
+            <a href="https://www.w3schools.com/cs/" target="_blank"> <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
-            <a href="https://www.w3schools.com/css/" target="_blank"> <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-                         original.svg"> </a>
+            <a href="https://www.w3schools.com/css/" target="_blank"> <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>Figma</strong></span><br>
-            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+            <a href="https://www.figma.com/" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
-            <a href="https://www.w3schools.com/html/" target="_blank"> <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-                     original.svg"> </a>
+            <a href="https://www.w3schools.com/html/" target="_blank"> <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> </a>
             </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>JavaScript</strong></span><br>
-            <a href="https://www.w3schools.com/js/" target="_blank"> <img height="32px"                                                                                             src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
+            <a href="https://www.w3schools.com/js/" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>jQuery</strong></span><br>
-            <a href="https://www.w3schools.com/jquery/" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-               original.svg"> </a>
+            <a href="https://www.w3schools.com/jquery/" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>MySQL</strong></span><br>
-            <a href="https://www.w3schools.com/mysql/" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-                 original.svg"> </a>
+            <a href="https://www.w3schools.com/mysql/" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> </a>
             <td width="80px" align="center">
             <span><strong>PHP</strong></span><br>
-            <a href="https://www.php.net" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-                                   original.svg"> </a>
+            <a href="https://www.php.net" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
-            <a href="https://www.python.org" target="_blank"> <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">               </a>
+            <a href="https://www.python.org" target="_blank"> <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  </a>
             </td>
             <td width="80px" align="center">
             <span><strong>Unity</strong></span><br>
