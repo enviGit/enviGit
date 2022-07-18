@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Checkout+my+bio+for+more+information)](https://git.io/typing-svg)
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.blender.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> </a>
