@@ -37,7 +37,7 @@
 </table>
 <hr>
 <h3 align="center">Technologies and Tools</h3>
-<table width="480px" align="center">
+<table width="560px" align="center">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -59,6 +59,11 @@
             <td width="80px" align="center">
             <span><strong>Figma</strong></span><br>
             <a href="https://www.figma.com/" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>
+            </td>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Gimp</strong></span><br>
+            <a href="https://www.gimp.org" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
