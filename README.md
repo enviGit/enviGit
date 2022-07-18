@@ -1,6 +1,36 @@
 <a href="https://github.com/enviGit?tab=repositories"> <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;I'm+Paul+-+aka+Envi;Feel+free+to+have+a+look+at+my+repos!"/> </a>
 <hr>
 <h3 align="center">Contact with me:</h3>
+<table width="480px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Blender</strong></span><br>
+            <a href="https://www.blender.org" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"> </a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>C++</strong></span><br>
+            <a href="https://www.w3schools.com/cpp/" target="_blank"> <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> </a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>C#</strong></span><br>
+            <a href="https://www.w3schools.com/cs/" target="_blank"> <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> </a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <a href="https://www.w3schools.com/css/" target="_blank"> <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> </a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Figma</strong></span><br>
+            <a href="https://www.figma.com/" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <a href="https://www.w3schools.com/html/" target="_blank"> <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 <h3 align="center">Languages and Tools:</h3>
 <table width="480px" align="center">
     <tbody>
