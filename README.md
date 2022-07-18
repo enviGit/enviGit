@@ -84,6 +84,10 @@
             <a href="https://www.w3schools.com/mysql/" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> </a>
             </td>
             <td width="80px" align="center">
+            <span><strong>Photoshop</strong></span><br>
+            <a href="https://www.adobe.com/pl/products/photoshop.html" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"> </a>
+            </td>
+            <td width="80px" align="center">
             <span><strong>PHP</strong></span><br>
             <a href="https://www.php.net" target="_blank"> <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> </a>
             </td>
