@@ -1,6 +1,6 @@
 <a href="https://github.com/enviGit?tab=repositories"> <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;I'm+Paul+-+aka+Envi;Feel+free+to+have+a+look+at+my+repos!"/> </a>
-<hr>
-<h3 align="center">Contact me</h3>
+
+<h3 align="center">Contact me</h3><hr>
 <table width="480px" align="center">
     <tbody>
         <tr valign="top">
@@ -31,8 +31,8 @@
         </tr>
     </tbody>
 </table>
-<hr>
-<h3 align="center">Technologies and Tools</h3>
+
+<h3 align="center">Technologies and Tools</h3><hr>
 <table width="480px" align="center">
     <tbody>
         <tr valign="top">
@@ -88,8 +88,8 @@
         </tr>
     </tbody>
 </table>
-<hr>
-<h3 align="center">GitHub Stats</h3>
+
+<h3 align="center">GitHub Stats</h3><hr>
 <div style="display: flex; flex-direction: row;">
     <a href="#" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs&line_height=30"/></a>
     <a href="https://github.com/enviGit?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark&card_width=297"/></a>
