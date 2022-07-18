@@ -57,7 +57,10 @@
     </tbody>
 </table>
 
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<div style="display: flex; flex-direction: row;">
+<img src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark"/>
 </div>
