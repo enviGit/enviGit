@@ -57,6 +57,6 @@
     </tbody>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enviGit&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
