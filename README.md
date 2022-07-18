@@ -1,5 +1,4 @@
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=46&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;Feel+free+to+have+a+look+at+my+projects.)](https://git.io/typing-svg)-->
-<img src="https://readme-typing-svg.herokuapp.com?size=46&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;Feel+free+to+have+a+look+at+my+projects."/>
+<a href="https://github.com/enviGit?tab=repositories"> <img src="https://readme-typing-svg.herokuapp.com?size=46&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;Feel+free+to+have+a+look+at+my+projects."/> </a>
 
 <h3 align="center">Languages and Tools:</h3>
 <table width="480px" align="center">
