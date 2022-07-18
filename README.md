@@ -1,4 +1,4 @@
-<a href="https://github.com/enviGit?tab=repositories"> <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;I'm+Paul+-+aka+Envi;Feel+free+to+have+a+look+at+my+repos!"/> </a>
+<a href="https://github.com/enviGit?tab=repositories"> <img src="https://readme-typing-svg.herokuapp.com?size=47&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;I'm+Paul+-+aka+Envi;Feel+free+to+have+a+look+at+my+repos!"/> </a>
 </br><hr>
 <h3 align="center">Contact me</h3>
 <table width="560px" align="center">
