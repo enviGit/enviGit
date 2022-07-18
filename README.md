@@ -56,11 +56,9 @@
         </tr>
     </tbody>
 </table>
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
 <hr>
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs&line_height=30"/>
-    <img width="50%" height="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark&card_width=297"/>
+    <!--<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark&card_width=297"/>-->
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark"/>
 </div>
