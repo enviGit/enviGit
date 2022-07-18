@@ -5,28 +5,28 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
+            <span><strong>Facebook</strong></span><br>
+            <a href="https://www.facebook.com/Envixoxo" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"> </a>
+            </td>
+            <td width="80px" align="center">
             <span><strong>Gmail</strong></span><br>
             <a href="mailto:paweltrojanski@gmail.com" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"> </a>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Instagram</strong></span><br>
+            <a href="https://www.instagram.com/envixoxo/" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"> </a>
             </td>
             <td width="80px" align="center">
             <span><strong>LinkedIn</strong></span><br>
             <a href="https://www.linkedin.com/in/ptrojanski/" target="_blank"> <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"> </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>YouTube</strong></span><br>
-            <a href="https://www.w3schools.com/cs/" target="_blank"> <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg"> </a>
-            </td>
-            <td width="80px" align="center">
             <span><strong>Twitch</strong></span><br>
-            <a href="https://www.w3schools.com/css/" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitch.svg"> </a>
+            <a href="https://www.twitch.tv/envileague" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitch.svg"> </a>
             </td>
             <td width="80px" align="center">
-            <span><strong>Facebook</strong></span><br>
-            <a href="https://www.figma.com/" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"> </a>
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Instagram</strong></span><br>
-            <a href="https://www.w3schools.com/html/" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg"> </a>
+            <span><strong>YouTube</strong></span><br>
+            <a href="https://www.youtube.com/channel/UCHo7rLGSBqxgiZd0YptcTyw" target="_blank"> <img height="32" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg"> </a>
             </td>
         </tr>
     </tbody>
