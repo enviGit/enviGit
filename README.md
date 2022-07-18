@@ -61,6 +61,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
 <hr>
 <div style="display: flex; flex-direction: row;">
-<img src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs&line_height=30"/>
-<img style="margin-left: 20%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark&card_width=297"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs&line_height=30"/>
+    <img style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark&card_width=297"/>
 </div>
