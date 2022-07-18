@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=48&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;Feel+free+to+have+a+look+at+my+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=46&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;Feel+free+to+have+a+look+at+my+projects.)](https://git.io/typing-svg)
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;Checkout+my+bio+for+more+information.)](https://git.io/typing-svg)
 <hr>-->
 
