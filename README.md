@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Checkout+my+bio+for+more+information)](https://git.io/typing-svg)
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <a href="https://www.blender.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> 
