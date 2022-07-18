@@ -31,6 +31,7 @@
         </tr>
     </tbody>
 </table>
+<hr>
 <h3 align="center">Languages and Tools:</h3>
 <table width="480px" align="center">
     <tbody>
