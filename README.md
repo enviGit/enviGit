@@ -56,6 +56,6 @@
         </tr>
     </tbody>
 </table>
-<hr>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enviGit&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
