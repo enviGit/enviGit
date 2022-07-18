@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;Checkout+my+bio+for+more+information.)](https://git.io/typing-svg)<hr>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;Checkout+my+bio+for+more+information.)](https://git.io/typing-svg)
+<hr>
 <h3 align="center">Languages and Tools:</h3>
-
 <table width="480px" align="center">
     <tbody>
         <tr valign="top">
@@ -57,5 +56,5 @@
         </tr>
     </tbody>
 </table>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enviGit&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<hr>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enviGit&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
