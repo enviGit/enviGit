@@ -1,9 +1,13 @@
 <a href="https://github.com/enviGit?tab=repositories"> <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;I'm+Paul+-+aka+Envi;Feel+free+to+have+a+look+at+my+repos!"/> </a>
 </br><hr>
 <h3 align="center">Contact me</h3>
-<table width="480px" align="center">
+<table width="560px" align="center">
     <tbody>
         <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Discord</strong></span><br>
+            <a href="discordapp.com/users/309372335117434881/" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg"> </a>
+            </td>
             <td width="80px" align="center">
             <span><strong>Facebook</strong></span><br>
             <a href="https://www.facebook.com/Envixoxo" target="_blank"> <img height="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg"> </a>
