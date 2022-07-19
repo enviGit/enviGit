@@ -109,11 +109,11 @@
     <a href="https://github.com/enviGit?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark&card_width=297"/></a>
 </div><hr>
 <h3 align="center">Spotify Stats</h3>
-<table width="500px" align="center" border-width="0.1px">
-    <tbody border-width="0.1px">
-    <tr valign="top" border-width="0.1px">
-        <td width="500px" align="center" border-width="0.1px">
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique=true"/>
+<table width="500px" align="center">
+    <tbody>
+    <tr valign="top">
+        <td width="500px" align="center">
+            <img width="500px" src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique=true"/>
         </td>
     </tr>
     </tbody>
