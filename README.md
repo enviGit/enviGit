@@ -108,4 +108,4 @@
     <a href="#" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs&line_height=30"/></a>
     <a href="https://github.com/enviGit?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark&card_width=297"/></a>
 </div>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=1lpyr671d6wuifnc1fmvh8f53"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique={true|1|on|yes}"/>
