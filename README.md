@@ -103,8 +103,8 @@
     </tbody>
 </table>
 <hr>
-<h3 align="center">GitHub Stats</h3>
-<!--<div style="display: flex; flex-direction: row;">
+<!--<h3 align="center">GitHub Stats</h3>
+<div style="display: flex; flex-direction: row;">
     <a href="#" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs&line_height=30"/></a>
     <a href="https://github.com/enviGit?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark&card_width=297"/></a>
 </div><hr>-->
@@ -126,7 +126,7 @@
     <tbody>
     <tr valign="top">
         <td width="500px" align="center">
-            <img width="500px" src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique=true"/>
+            <a href="https://open.spotify.com/user/11143901460" target="_blank"> <img width="500px" src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique=true"/> </a>
         </td>
     </tr>
     </tbody>
