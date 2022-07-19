@@ -111,7 +111,7 @@
 <table width="500px" align="center" border="none">
     <tr valign="top" border="none">
         <td width="500px" align="center" border="none">
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique={true|1|on|yes}"/>
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique={true|1|on|yes}" border="none"/>
         </td>
     </tr>
 </table>
