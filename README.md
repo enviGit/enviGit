@@ -109,12 +109,10 @@
     <a href="https://github.com/enviGit?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark&card_width=297"/></a>
 </div><br>
 <table width="500px" align="center" border="none">
-    <tbody>
-        <tr valign="top">
-            <td width="500px" align="center">
-                <img src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique={true|1|on|yes}"/>
-            </td>
-        </tr>
-    </tbody>
+    <tr valign="top" border="none">
+        <td width="500px" align="center" border="none">
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique={true|1|on|yes}"/>
+        </td>
+    </tr>
 </table>
 
