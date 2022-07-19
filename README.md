@@ -110,10 +110,12 @@
 </div><hr>
 <h3 align="center">Spotify Stats</h3>
 <table width="500px" align="center" border-width="0px">
+    <tbody border-width="0px">
     <tr valign="top" border="none" border-width="0px">
         <td width="500px" align="center" border="none" border-width="0px">
             <img src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique=true"/>
         </td>
     </tr>
+    </tbody>
 </table>
 
