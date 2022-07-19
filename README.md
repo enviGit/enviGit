@@ -113,7 +113,7 @@
     <tbody>
     <tr valign="top">
         <td width="500px" align="center">
-            <img width="500px" src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique=true"/>
+            <img width="525px" src="https://spotify-recently-played-readme.vercel.app/api?user=11143901460&unique=true"/>
         </td>
     </tr>
     </tbody>
