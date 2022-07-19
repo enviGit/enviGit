@@ -112,11 +112,11 @@
 <table width="100%" align="center">
     <tbody>
     <tr valign="top">
-        <td width="50%" align="center">
-           <a href="#" target="_blank"><img height="350px" width="50%" src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs"/></a>
+        <td width="506" align="center">
+           <a href="#" target="_blank"><img height="300px" width="506px" src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs"/></a>
         </td>
         <td width="50%" align="center">
-            <a href="https://github.com/enviGit?tab=repositories" target="_blank"><img height="250px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark"/></a>
+            <a href="https://github.com/enviGit?tab=repositories" target="_blank"><img height="250px" width="506px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark"/></a>
         </td>
     </tr>
     </tbody>
