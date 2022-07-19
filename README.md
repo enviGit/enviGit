@@ -113,7 +113,7 @@
     <tbody>
     <tr valign="top">
         <td width="506px" align="center">
-           <a href="#" target="_blank"><img height="200px" width="506px" src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs"/></a>
+           <a href="#" target="_blank"><img height="200px" width="506px" src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs&line_height=50"/></a>
         </td>
         <td width="506px" align="center">
             <a href="https://github.com/enviGit?tab=repositories" target="_blank"><img height="200px" width="506px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark"/></a>
