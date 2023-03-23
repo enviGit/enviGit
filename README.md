@@ -1,5 +1,7 @@
-<a href="https://github.com/enviGit?tab=repositories"> <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;I'm+Paul+-+aka+Envi;Feel+free+to+have+a+look+at+my+repos!"/> </a>
-</br><hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=1&color=00FF00&center=true&vCenter=true&repeat=false&width=435&width=1012&lines=Paweł+Trojański)](https://github.com/enviGit)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=1&center=true&vCenter=true&repeat=false&width=435&width=1012&lines=My+website)](https://envigit.github.io/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;Feel+free+to+have+a+look+at+my+repos!)](https://github.com/enviGit?tab=repositories)
+<hr>
 <h3 align="center">Contact me</h3>
 <table width="500px" align="center">
     <tbody>
@@ -86,11 +88,6 @@
     </tbody>
 </table>
 <hr>
-<!--<h3 align="center">GitHub Stats</h3>
-<div style="display: flex; flex-direction: row;">
-    <a href="#" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=enviGit&count_private=true&show_icons=true&theme=github_dark&hide=contribs,prs&line_height=30"/></a>
-    <a href="https://github.com/enviGit?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enviGit&layout=compact&theme=github_dark&card_width=297"/></a>
-</div><hr>-->
 <h3 align="center">GitHub Stats</h3>
 <table width="100%" align="center">
     <tbody>
@@ -114,4 +111,3 @@
     </tr>
     </tbody>
 </table>
-
