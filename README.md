@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=1&color=00FF00&center=true&vCenter=true&repeat=false&width=435&width=1012&lines=Paweł+Trojański)](https://github.com/enviGit)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=1&center=true&vCenter=true&repeat=false&width=435&width=1012&lines=My+website)](https://envigit.github.io/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=1012&lines=Welcome+to+my+profile!;Feel+free+to+have+a+look+at+my+repos!)](https://github.com/enviGit?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=1&color=00FF00&center=true&vCenter=true&repeat=false&width=435&width=1012&lines=Paweł+Trojański)](https://envigit.github.io/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&color=00FF00&width=1012&lines=Welcome+to+my+profile!;Feel+free+to+have+a+look+at+my+repos!)](https://github.com/enviGit?tab=repositories)
 <hr>
 <h3 align="center">Contact me</h3>
 <table width="500px" align="center">
