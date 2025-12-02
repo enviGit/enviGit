@@ -34,7 +34,6 @@
       <td align="center">
         <a href="https://github.com/enviGit"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=enviGit&show_icons=true&title_color=4ade80&icon_color=4ade80&text_color=ffffff&bg_color=111111&hide_border=true&count_private=true&hide=contribs" alt="GitHub Stats" /></a>
       </td>
-      <td align="center" width="10"></td>
       <td align="center">
         <a href="https://github.com/enviGit"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=enviGit&layout=compact&title_color=4ade80&text_color=ffffff&bg_color=111111&hide_border=true" alt="Top Languages" /></a>
       </td>
