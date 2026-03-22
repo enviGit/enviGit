@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://envigit.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=2500&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Hi,+I'm+Paweł;Technical+Implementation+Specialist;Unity+Developer;Student" alt="Typing SVG" /></a>
+  <a href="https://envigit.github.io/"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=2500&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Hi,+I'm+Paweł;Technical+Implementation+Specialist;Unity+Developer" alt="Typing SVG" /></a>
 
   <br/>
 
